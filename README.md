@@ -13,7 +13,7 @@ much to invest in each advertisement platform. As stated in the Handbook of Mark
     ...budget decisions are often based on gut feelings or on the negotiation skills of individual 
     managers. Consequently, politics and individual opinions tend to shape the decision process 
     instead of fact-based discussions. Obviously, these rules and practices bear the risk of results far 
-     away from the optimal, profit-maximizing budget.
+    away from the optimal, profit-maximizing budget.
      
 Indeed, the marketing strategy of Netflix seems to be steered by data. 
 In this project, we use linear programming to build a simple marketing budget allocation strategy.
