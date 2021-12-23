@@ -9,10 +9,12 @@ ineffective; on the other hand, Netflix plans a 54% boost in ad spending because
 feedback in international markets.
 One potential reason for such variation is the way of making marketing budget allocations. Namely, how 
 much to invest in each advertisement platform. As stated in the Handbook of Marketing Analytics:
-...budget decisions are often based on gut feelings or on the negotiation skills of individual 
-managers. Consequently, politics and individual opinions tend to shape the decision process 
-instead of fact-based discussions. Obviously, these rules and practices bear the risk of results far 
-away from the optimal, profit-maximizing budget.
+
+    ...budget decisions are often based on gut feelings or on the negotiation skills of individual 
+    managers. Consequently, politics and individual opinions tend to shape the decision process 
+    instead of fact-based discussions. Obviously, these rules and practices bear the risk of results far 
+     away from the optimal, profit-maximizing budget.
+     
 Indeed, the marketing strategy of Netflix seems to be steered by data. 
 In this project, we use linear programming to build a simple marketing budget allocation strategy.
 
