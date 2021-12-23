@@ -1,4 +1,5 @@
-Problem Description
+**Problem Description:**
+
 Marketing budgets now comprise 11 percent of total company budgets, based on a CMO survey 
 sponsored by the Fuqua School of Business at Duke University, Deloitte LLP, and the American 
 Marketing Association. However, the effectiveness of marketing varies significantly: on the one hand, 
@@ -13,7 +14,8 @@ instead of fact-based discussions. Obviously, these rules and practices bear the
 away from the optimal, profit-maximizing budget.
 Indeed, the marketing strategy of Netflix seems to be steered by data. 
 In this project, we use linear programming to build a simple marketing budget allocation strategy.
-Specifics
+
+**Specifics:**
 1) Assume that your company is deciding how to spend a marketing budget of $10M.  You work in 
 the marketing department as a data scientist and the chief marketing officer has asked you 
 write a report recommending how to spread this budget among several marketing mediums.  
